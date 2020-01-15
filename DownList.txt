@@ -1,0 +1,2 @@
+Figma-linux (sketch viewer) :  https://github.com/Figma-Linux/figma-linux/releases
+chmviewer : sudo dnf install kchm-viewer
