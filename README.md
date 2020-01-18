@@ -1,5 +1,6 @@
 # Demo
-For my personal practice, do not download
+NOTE: This project is for my personal practice, you may not find it very useful.
+
 There are 2 files in this project, one contains vendor folder which holds every third party library/package installed while the second zip file has rest of the folders.
 
 To run the project:
